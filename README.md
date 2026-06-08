@@ -1,78 +1,165 @@
-
-# Hi 👋, I'm Sudharsan
-
 ![Banner](banner.png)
+<div align="center">
 
-### 🚀 DevOps Enthusiast | Kubernetes | Docker | Linux | Python
+# Hi 👋 I'm Sudharsan S
 
----
+### 🎓 B.E Electronics & Communication Engineering (ECE)
 
-## 👨‍💻 About Me
+### ☸️ DevOps Enthusiast • 🐳 Docker • ☁️ Cloud Computing • 🐧 Linux • 🐍 Python
 
-* 🎓 B.E Computer Science Engineering Student
-* ☸️ Learning Kubernetes & Cloud Native Technologies
-* 🐳 Exploring Docker and Containerization
-* 🐧 Linux Enthusiast
-* 🐍 Python Developer
-* ☁️ Aspiring DevOps Engineer
+<img src="banner.png" alt="Banner"/>
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+🎓 Electronics & Communication Engineering Student
 
----
+💻 Passionate about DevOps, Cloud Computing and Automation
 
-## 📂 Featured Projects
+☸️ Learning Kubernetes & Cloud-Native Technologies
 
-### 🚨 Gas Leakage Detection System
+🐳 Building and Managing Containerized Applications
 
-* Arduino + NodeMCU + Firebase
-* Machine Learning Anomaly Detection
-* Twilio SMS Alerts
+🐧 Linux Enthusiast
 
-### ☸️ Kubernetes Labs
+🐍 Python Developer
 
-* Pods
-* Deployments
-* Services
-* ConfigMaps
-* Secrets
-* Volumes
+📡 Interested in IoT, Cloud Infrastructure and System Administration
 
 ---
 
-## 📈 Current Focus
+## 🛠️ Tech Stack
 
-* Kubernetes Administration
-* Docker Containerization
-* CI/CD Pipelines
-* Cloud Computing
+### DevOps & Cloud
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### IoT & Backend
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Learning Path
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssudharsan984\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssudharsan984\&layout=compact)
+```text
+Linux Administration
+        ↓
+Docker
+        ↓
+Kubernetes
+        ↓
+CI/CD
+        ↓
+Cloud Computing
+        ↓
+DevOps Engineering
+```
 
 ---
 
-## 🔥 GitHub Streak
+## 🚨 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ssudharsan984)
+### Gas Leakage Detection System
+
+✔ Arduino UNO
+
+✔ NodeMCU ESP8266
+
+✔ Firebase Realtime Database
+
+✔ Machine Learning Anomaly Detection
+
+✔ Twilio SMS Alert Integration
+
+---
+
+### Kubernetes Labs
+
+✔ Pods
+
+✔ ReplicaSets
+
+✔ Deployments
+
+✔ Services
+
+✔ ConfigMaps
+
+✔ Secrets
+
+✔ Persistent Volumes
+
+✔ StatefulSets
+
+✔ DaemonSets
+
+---
+
+### Docker Projects
+
+✔ Docker Images
+
+✔ Docker Compose
+
+✔ Container Networking
+
+✔ Multi-Container Applications
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssudharsan984\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssudharsan984\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ssudharsan984\&theme=tokyonight)
+
+---
+
+## 🏆 2026 Goals
+
+* ☸️ Master Kubernetes Administration
+* 🐳 Build Advanced Docker Projects
+* ☁️ Learn AWS Cloud Services
+* 🚀 Create Production-Level DevOps Projects
+* 📖 Contribute to Open Source
+* 🎯 Secure a DevOps / Cloud Engineering Role
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/ssudharsan984
-* LinkedIn: Add your LinkedIn profile here
+* GitHub: github.com/ssudharsan984
+* LinkedIn: Add Your LinkedIn Profile
+* Email: Add Your Email
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+Building Cloud-Native Solutions with Kubernetes & Docker 🚀
+
+</div>
