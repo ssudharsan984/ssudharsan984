@@ -1,4 +1,4 @@
-![Banner](banner.png)
+
 <div align="center">
 
 # Hi 👋 I'm Sudharsan S
